@@ -17,7 +17,7 @@ I hope building an interactive alarm will help me actually wake up from my alarm
 7. checks to see if the puzzle was solved correctly
 8. turns off the alarm
 
-![System diagram](docs/System Diagram.drawio.pdf)
+![System diagram](docs/Eisenhower_Matrix.pdf)
 
 ## Tech Stack
 
@@ -54,7 +54,7 @@ How to actually run the thing, with examples.
 - [ ] **Planned V2** - Additional puzzles
                    - Fitbit Alarm Integration 
                    - Gradual volume increase
-![System diagram](docs/Eisenhower Matrix.pdf)
+![System diagram](docs/Eisenhower_Matrix.pdf)
 
 ## Author
 
