@@ -17,8 +17,7 @@ I hope building an interactive alarm will help me actually wake up from my alarm
 7. checks to see if the puzzle was solved correctly
 8. turns off the alarm
    
-<img width="638" height="642" alt="image" src="https://github.com/user-attachments/assets/9ad696e7-92e0-4fb1-9788-22b2ccd056c1" />
-
+<img width="427" height="493" alt="image" src="https://github.com/user-attachments/assets/29da974d-488b-4e7c-ba2d-4976b8664c6d" />
 
 
 
@@ -57,7 +56,7 @@ How to actually run the thing, with examples.
 - [ ] **Planned V2** - Additional puzzles
                    - Fitbit Alarm Integration 
                    - Gradual volume increase
-<img width="427" height="493" alt="image" src="https://github.com/user-attachments/assets/29da974d-488b-4e7c-ba2d-4976b8664c6d" />
+<img width="638" height="642" alt="image" src="https://github.com/user-attachments/assets/9ad696e7-92e0-4fb1-9788-22b2ccd056c1" />
 
 
 ## Author
